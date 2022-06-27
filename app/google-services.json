@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966276823743",
+    "project_id": "evento2022-7e0be",
+    "storage_bucket": "evento2022-7e0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966276823743:android:7c703621254ca90ff2240a",
+        "android_client_info": {
+          "package_name": "com.monterrey.eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966276823743-mn03ptrluh4qb78333hanr5ose3onfk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monterrey.eventos",
+            "certificate_hash": "e75426b1a91e89382cc999d295e6882e6d7fd3ae"
+          }
+        },
+        {
+          "client_id": "966276823743-063enq2ok35vpp93tp0jnr5dr01msoh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEl_3Qqveh-QnUWxer4cLTriD_zn-mw5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966276823743-063enq2ok35vpp93tp0jnr5dr01msoh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
